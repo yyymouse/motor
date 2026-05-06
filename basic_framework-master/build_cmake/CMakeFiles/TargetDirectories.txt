@@ -1,0 +1,3 @@
+D:/gitstore/motor/basic_framework-master/build_cmake/CMakeFiles/basic_framework.elf.dir
+D:/gitstore/motor/basic_framework-master/build_cmake/CMakeFiles/edit_cache.dir
+D:/gitstore/motor/basic_framework-master/build_cmake/CMakeFiles/rebuild_cache.dir

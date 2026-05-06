@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/gitstore/motor/basic_framework-master/build_cmake/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
